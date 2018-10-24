@@ -1,4 +1,4 @@
-## Api de notas :notebook:
+## :notebook: Api de notas
 **Ejemplo de api utilizando el stack MERN**
 
 Para comenzar a utilizar la aplicación, primero debes de instalar las dependencias:
